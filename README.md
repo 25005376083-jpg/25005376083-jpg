@@ -1,130 +1,111 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:6D28D9&height=190&section=header&text=MUHAMMAD%20NOMAN&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A33,50:123C69,100:2563EB&height=210&section=header&text=Muhammad%20Noman&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<h3>AI Developer &nbsp;|&nbsp; Digital Marketer</h3>
+<img src="https://github.com/25005376083-jpg.png" width="145" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=BS+Artificial+Intelligence+Student;Aspiring+AI+Developer;Digital+Marketing+Enthusiast;Learning+%7C+Building+%7C+Growing" />
+<h2>AI Developer | Digital Marketer</h2>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=BS+Artificial+Intelligence+Student;Aspiring+AI+Developer;Digital+Marketing+Enthusiast;Learning+%7C+Building+%7C+Growing" />
 
----
-
-<table>
-<tr>
-<td width="30%" valign="top">
-
-<div align="center">
-
-<img src="https://github.com/25005376083-jpg.png" width="150" style="border-radius:50%;" />
-
-### Muhammad Noman
-
-**AI Developer & Digital Marketer**
-
-🇵🇰 Pakistan
+<p>
+<img src="https://img.shields.io/badge/University-UMT-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Pakistan-0EA5E9?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-### 👨‍💻 ABOUT ME
+## 👨‍💻 About Me
 
-BS Artificial Intelligence student passionate about technology, AI and digital marketing.
+Hello! I'm **Muhammad Noman**, a BS Artificial Intelligence student at the University of Management and Technology (UMT).
 
-### 🎓 EDUCATION
+I'm interested in Artificial Intelligence, software development, programming and digital marketing.
 
-**UMT**
-
-BS Artificial Intelligence
-
-### 🎯 INTERESTS
-
-- Artificial Intelligence
-- Programming
-- Digital Marketing
-- Technology
-
-### 🤝 CONNECT
-
-[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=black)](https://github.com/25005376083-jpg)
-
-</td>
-
-<td width="70%" valign="top">
-
-### 👋 Welcome to My GitHub!
-
-Hello! I'm **Muhammad Noman**, an aspiring AI Developer and Digital Marketer.
-
-I'm currently pursuing my BS in Artificial Intelligence at the University of Management and Technology (UMT).
-
-I enjoy exploring technology, learning programming and building useful digital solutions.
+- 🎓 Pursuing BS Artificial Intelligence at UMT.
+- 🤖 Exploring Artificial Intelligence.
+- 💻 Learning C++ and Python.
+- 📈 Interested in Digital Marketing.
+- 🚀 Working towards building useful digital solutions.
+- 🌱 Improving my technical and professional skills.
 
 ---
 
-### 🛠️ TECHNOLOGIES & TOOLS
+## 🛠️ Technology Dashboard
 
 <div align="center">
+
+### Programming & Development
 
 <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode&theme=dark" />
 
-</div>
+### Areas of Interest
 
-**Currently Learning & Exploring**
-
-- C++ and Python programming
-- Artificial Intelligence concepts
-- Software development
-- Digital Marketing
-
----
-
-### 🚀 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="100%">
-
-**📁 ProofPocket**
-
-A project currently in development.
-
-Focus: Building and improving a digital solution.
-
-</td>
-</tr>
-</table>
-
-More projects will be featured here as I complete them.
-
----
-
-### 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=25005376083-jpg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6" width="95%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=25005376083-jpg&theme=tokyonight&hide_border=true&background=0D1117" width="95%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25005376083-jpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="95%" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-123C69?style=for-the-badge&logo=googlebrain&logoColor=white" />
+<img src="https://img.shields.io/badge/Digital%20Marketing-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 
 </div>
 
-</td>
-</tr>
-</table>
+---
+
+## 🎓 Education
+
+| Institution | Qualification |
+|---|---|
+| University of Management and Technology (UMT) | BS Artificial Intelligence |
+
+---
+
+## 🚀 Featured Projects
+
+### 📁 ProofPocket
+
+Currently developing ProofPocket.
+
+More information, features and repository links will be added as the project progresses.
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=25005376083-jpg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071A33&title_color=60A5FA&icon_color=818CF8" width="95%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25005376083-jpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=071A33" width="95%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=25005376083-jpg&theme=tokyonight&hide_border=true&background=071A33" width="95%" />
+
+</div>
+
+---
+
+## 🏆 Certificates & Achievements
+
+Certificates and achievements will be added here as I complete them.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/25005376083-jpg">
+<img src="https://img.shields.io/badge/GitHub-071A33?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Add your LinkedIn URL here when ready -->
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌐 LET'S CONNECT & GROW
+### 🚀 BUILD • LEARN • GROW
 
-**Learning Today, Building Tomorrow.** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:111827,100:000000&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:123C69,100:071A33&height=120&section=footer" width="100%" />
 
 </div>
