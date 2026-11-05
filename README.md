@@ -1,19 +1,24 @@
-
+<!-- ANIMATED HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:2563EB&height=190&section=header&text=MUHAMMAD%20NOMAN&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:3B82F6,100:9333EA&height=200&section=header&text=MUHAMMAD%20NOMAN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Digital%20Marketer&descSize=18&descAlignY=55" width="100%"/>
 
-<h2>👋 Hi There! I'm Muhammad Noman</h2>
+<!-- PROFILE IMAGE -->
+<img src="https://github.com/25005376083-jpg.png" width="160" alt="Muhammad Noman"/>
 
-<h3>💻 Aspiring AI Developer | BS Artificial Intelligence Student</h3>
+<h2>👋 Hi, I'm Muhammad Noman!</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Exploring+Python+%26+C%2B%2B;Future+AI+Developer;Always+Learning+Something+New" />
-
-<img src="https://github.com/25005376083-jpg.png" width="140" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=BS+Artificial+Intelligence+Student;Aspiring+AI+Developer;Digital+Marketing+Enthusiast;Learning+and+Building+Every+Day!" alt="Typing SVG"/>
 
 <p>
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-111827?style=for-the-badge&logo=probot&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/University-UMT-111827?style=for-the-badge&logo=academia&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-2563EB?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/University-UMT-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+</p>
+
+<p>
+  <a href="https://github.com/25005376083-jpg">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 </div>
@@ -22,90 +27,74 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Muhammad Noman**, a BS Artificial Intelligence student at the **University of Management and Technology (UMT)**.
+Hello! I'm **Muhammad Noman**, a BS Artificial Intelligence student at the University of Management and Technology (UMT).
 
-I'm passionate about Artificial Intelligence, programming, emerging technologies and software development.
+I'm interested in Artificial Intelligence, programming, software development, and digital marketing.
 
-- 🎓 Pursuing BS Artificial Intelligence at UMT.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 💻 Learning C++ and Python.
-- 🧠 Interested in intelligent systems and problem-solving.
-- 🚀 Building my technical knowledge through practical projects.
-- 🌱 Always learning, improving and exploring new technologies.
+I enjoy learning new technologies, exploring creative ideas, and building projects that solve real-world problems.
 
----
-
-## 🧠 Expertise & Areas of Interest
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=googlebrain&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Programming-111827?style=for-the-badge&logo=codeforces&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Software%20Development-111827?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA" />
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" />
-
-</div>
-
-### Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</div>
+- 🎓 Studying BS Artificial Intelligence at UMT
+- 🤖 Exploring Artificial Intelligence
+- 💻 Learning C++, Python and Web Development
+- 📈 Interested in Digital Marketing
+- 🚀 Building personal and academic projects
+- 🌱 Always learning and improving my skills
 
 ---
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td>
+**University of Management and Technology (UMT)**
 
-🎓 **University of Management and Technology (UMT)**
-
-**Degree:** BS Artificial Intelligence
-
-**Field:** Artificial Intelligence & Computing
-
-</td>
-</tr>
-</table>
+- Degree: BS Artificial Intelligence
+- Status: Student
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Tech Stack & Tools
 
-### 📁 ProofPocket
+### Programming Languages
 
-Currently developing ProofPocket.
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-A project I'm working on to strengthen my practical development experience.
+### Development Tools
 
-More project details and repository links will be added as development progresses.
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+### AI & Technology
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Development-Learning-0EA5E9?style=for-the-badge"/>
+</p>
+
+### Digital Marketing
+
+<p>
+  <img src="https://img.shields.io/badge/Digital%20Marketing-Exploring-EA4AAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SEO-Learning-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Social%20Media%20Marketing-Exploring-2563EB?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🚀 My Projects
 
-| Certificate / Achievement | Organization | Date |
-|---|---|---|
-| Career Essentials in Generative AI | Microsoft & LinkedIn | 18 July 2026 |
-| NASA Open Science Essentials | NASA | 11 August 2026 |
-| Hands-on Workshop on GitHub | UMT | 23 October 2026 |
-| Certificate of Typing Proficiency | Issuer to be confirmed | 13 July 2026 |
+### 📌 ProofPocket
+
+A personal project that I'm developing and improving.
+
+- Project: ProofPocket
+- Status: In Development
+
+More projects and details will be added as I build them.
 
 ---
 
@@ -113,27 +102,31 @@ More project details and repository links will be added as development progresse
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=25005376083-jpg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8957E5" width="95%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=25005376083-jpg&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25005376083-jpg&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" width="95%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=25005376083-jpg&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=25005376083-jpg&theme=github-dark-blue&hide_border=true&background=0D1117" width="95%" />
+<img width="70%" src="https://streak-stats.demolab.com?user=25005376083-jpg&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Achievements & Certificates
+
+My certificates and achievements will be added here as I complete courses, workshops, and certifications.
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/25005376083-jpg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/muhammad-noman-25082439b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<!-- Add your LinkedIn URL when ready -->
 
 </div>
 
@@ -141,8 +134,10 @@ More project details and repository links will be added as development progresse
 
 <div align="center">
 
-### ⚡ LEARN • BUILD • INNOVATE
+### 💡 My Philosophy
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:111827,100:000000&height=110&section=footer" width="100%" />
+*"Learn something new every day. Build something meaningful. Keep growing."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:3B82F6,100:090979&height=120&section=footer" width="100%"/>
 
 </div>
